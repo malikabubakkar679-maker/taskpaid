@@ -1,0 +1,12 @@
+{
+  "name": "Taskpad",
+  "short_name": "Taskpad",
+  "description": "A classic, animated task pad for tasks, notes and focus.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f2e7",
+  "theme_color": "#f7f2e7",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
